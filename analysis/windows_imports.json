@@ -1,0 +1,1117 @@
+{
+  "sha256": "f4d0df8ad062f99fd3fb4c858c66c4107e3629800d357499727af332142ea9f9",
+  "pe_machine": "0x14c",
+  "pe_optional_magic": "0x10b",
+  "image_base": "0x400000",
+  "pointer_width_bits": 32,
+  "direct_import_dlls": 9,
+  "direct_import_symbols": 241,
+  "imports": [
+    {
+      "dll": "KERNEL32.dll",
+      "count": 121,
+      "symbols": [
+        {
+          "iat_ea": "0x00630040",
+          "name": "DeleteFileA"
+        },
+        {
+          "iat_ea": "0x00630044",
+          "name": "CreateDirectoryA"
+        },
+        {
+          "iat_ea": "0x00630048",
+          "name": "GetCurrentDirectoryA"
+        },
+        {
+          "iat_ea": "0x0063004C",
+          "name": "GetDriveTypeA"
+        },
+        {
+          "iat_ea": "0x00630050",
+          "name": "GetVolumeInformationA"
+        },
+        {
+          "iat_ea": "0x00630054",
+          "name": "SetCurrentDirectoryA"
+        },
+        {
+          "iat_ea": "0x00630058",
+          "name": "GetLastError"
+        },
+        {
+          "iat_ea": "0x0063005C",
+          "name": "GetProcessHeap"
+        },
+        {
+          "iat_ea": "0x00630060",
+          "name": "SetEndOfFile"
+        },
+        {
+          "iat_ea": "0x00630064",
+          "name": "CompareStringW"
+        },
+        {
+          "iat_ea": "0x00630068",
+          "name": "CompareStringA"
+        },
+        {
+          "iat_ea": "0x0063006C",
+          "name": "WriteConsoleW"
+        },
+        {
+          "iat_ea": "0x00630070",
+          "name": "GetConsoleOutputCP"
+        },
+        {
+          "iat_ea": "0x00630074",
+          "name": "WriteConsoleA"
+        },
+        {
+          "iat_ea": "0x00630078",
+          "name": "GetLocaleInfoA"
+        },
+        {
+          "iat_ea": "0x0063007C",
+          "name": "GetStringTypeW"
+        },
+        {
+          "iat_ea": "0x00630080",
+          "name": "GetStringTypeA"
+        },
+        {
+          "iat_ea": "0x00630084",
+          "name": "SetStdHandle"
+        },
+        {
+          "iat_ea": "0x00630088",
+          "name": "GetCurrentProcessId"
+        },
+        {
+          "iat_ea": "0x0063008C",
+          "name": "GetTickCount"
+        },
+        {
+          "iat_ea": "0x00630090",
+          "name": "GetEnvironmentStringsW"
+        },
+        {
+          "iat_ea": "0x00630094",
+          "name": "FreeEnvironmentStringsW"
+        },
+        {
+          "iat_ea": "0x00630098",
+          "name": "GetEnvironmentStrings"
+        },
+        {
+          "iat_ea": "0x0063009C",
+          "name": "FreeEnvironmentStringsA"
+        },
+        {
+          "iat_ea": "0x006300A0",
+          "name": "InitializeCriticalSectionAndSpinCount"
+        },
+        {
+          "iat_ea": "0x006300A4",
+          "name": "FlushFileBuffers"
+        },
+        {
+          "iat_ea": "0x006300A8",
+          "name": "LCMapStringW"
+        },
+        {
+          "iat_ea": "0x006300AC",
+          "name": "LCMapStringA"
+        },
+        {
+          "iat_ea": "0x006300B0",
+          "name": "GetConsoleMode"
+        },
+        {
+          "iat_ea": "0x006300B4",
+          "name": "GetConsoleCP"
+        },
+        {
+          "iat_ea": "0x006300B8",
+          "name": "GetFileType"
+        },
+        {
+          "iat_ea": "0x006300BC",
+          "name": "SetHandleCount"
+        },
+        {
+          "iat_ea": "0x006300C0",
+          "name": "ReadFile"
+        },
+        {
+          "iat_ea": "0x006300C4",
+          "name": "MultiByteToWideChar"
+        },
+        {
+          "iat_ea": "0x006300C8",
+          "name": "GetTimeZoneInformation"
+        },
+        {
+          "iat_ea": "0x006300CC",
+          "name": "WideCharToMultiByte"
+        },
+        {
+          "iat_ea": "0x006300D0",
+          "name": "IsValidCodePage"
+        },
+        {
+          "iat_ea": "0x006300D4",
+          "name": "GetOEMCP"
+        },
+        {
+          "iat_ea": "0x006300D8",
+          "name": "GetACP"
+        },
+        {
+          "iat_ea": "0x006300DC",
+          "name": "GetCPInfo"
+        },
+        {
+          "iat_ea": "0x006300E0",
+          "name": "GetStdHandle"
+        },
+        {
+          "iat_ea": "0x006300E4",
+          "name": "HeapCreate"
+        },
+        {
+          "iat_ea": "0x006300E8",
+          "name": "HeapReAlloc"
+        },
+        {
+          "iat_ea": "0x006300EC",
+          "name": "VirtualAlloc"
+        },
+        {
+          "iat_ea": "0x006300F0",
+          "name": "VirtualFree"
+        },
+        {
+          "iat_ea": "0x006300F4",
+          "name": "RaiseException"
+        },
+        {
+          "iat_ea": "0x006300F8",
+          "name": "HeapSize"
+        },
+        {
+          "iat_ea": "0x006300FC",
+          "name": "DeleteCriticalSection"
+        },
+        {
+          "iat_ea": "0x00630100",
+          "name": "Sleep"
+        },
+        {
+          "iat_ea": "0x00630104",
+          "name": "InitializeCriticalSection"
+        },
+        {
+          "iat_ea": "0x00630108",
+          "name": "QueryPerformanceCounter"
+        },
+        {
+          "iat_ea": "0x0063010C",
+          "name": "QueryPerformanceFrequency"
+        },
+        {
+          "iat_ea": "0x00630110",
+          "name": "LeaveCriticalSection"
+        },
+        {
+          "iat_ea": "0x00630114",
+          "name": "EnterCriticalSection"
+        },
+        {
+          "iat_ea": "0x00630118",
+          "name": "GetEnvironmentVariableA"
+        },
+        {
+          "iat_ea": "0x0063011C",
+          "name": "GetModuleFileNameA"
+        },
+        {
+          "iat_ea": "0x00630120",
+          "name": "SetFileAttributesA"
+        },
+        {
+          "iat_ea": "0x00630124",
+          "name": "GetModuleHandleA"
+        },
+        {
+          "iat_ea": "0x00630128",
+          "name": "GetProcAddress"
+        },
+        {
+          "iat_ea": "0x0063012C",
+          "name": "LoadLibraryA"
+        },
+        {
+          "iat_ea": "0x00630130",
+          "name": "GetVersionExA"
+        },
+        {
+          "iat_ea": "0x00630134",
+          "name": "FreeLibrary"
+        },
+        {
+          "iat_ea": "0x00630138",
+          "name": "GetCommandLineA"
+        },
+        {
+          "iat_ea": "0x0063013C",
+          "name": "GetFileAttributesA"
+        },
+        {
+          "iat_ea": "0x00630140",
+          "name": "WaitForSingleObject"
+        },
+        {
+          "iat_ea": "0x00630144",
+          "name": "CreateThread"
+        },
+        {
+          "iat_ea": "0x00630148",
+          "name": "CreateEventA"
+        },
+        {
+          "iat_ea": "0x0063014C",
+          "name": "CloseHandle"
+        },
+        {
+          "iat_ea": "0x00630150",
+          "name": "CreateMutexA"
+        },
+        {
+          "iat_ea": "0x00630154",
+          "name": "SetEvent"
+        },
+        {
+          "iat_ea": "0x00630158",
+          "name": "SetThreadPriority"
+        },
+        {
+          "iat_ea": "0x0063015C",
+          "name": "SetPriorityClass"
+        },
+        {
+          "iat_ea": "0x00630160",
+          "name": "GetThreadPriority"
+        },
+        {
+          "iat_ea": "0x00630164",
+          "name": "GetPriorityClass"
+        },
+        {
+          "iat_ea": "0x00630168",
+          "name": "GlobalMemoryStatus"
+        },
+        {
+          "iat_ea": "0x0063016C",
+          "name": "GlobalUnlock"
+        },
+        {
+          "iat_ea": "0x00630170",
+          "name": "GlobalLock"
+        },
+        {
+          "iat_ea": "0x00630174",
+          "name": "TerminateThread"
+        },
+        {
+          "iat_ea": "0x00630178",
+          "name": "SearchPathA"
+        },
+        {
+          "iat_ea": "0x0063017C",
+          "name": "VirtualQuery"
+        },
+        {
+          "iat_ea": "0x00630180",
+          "name": "SetFilePointer"
+        },
+        {
+          "iat_ea": "0x00630184",
+          "name": "OutputDebugStringA"
+        },
+        {
+          "iat_ea": "0x00630188",
+          "name": "CreateFileA"
+        },
+        {
+          "iat_ea": "0x0063018C",
+          "name": "lstrcpyA"
+        },
+        {
+          "iat_ea": "0x00630190",
+          "name": "WriteFile"
+        },
+        {
+          "iat_ea": "0x00630194",
+          "name": "lstrlenA"
+        },
+        {
+          "iat_ea": "0x00630198",
+          "name": "GetSystemInfo"
+        },
+        {
+          "iat_ea": "0x0063019C",
+          "name": "GetFileTime"
+        },
+        {
+          "iat_ea": "0x006301A0",
+          "name": "GetFileSize"
+        },
+        {
+          "iat_ea": "0x006301A4",
+          "name": "FileTimeToDosDateTime"
+        },
+        {
+          "iat_ea": "0x006301A8",
+          "name": "FileTimeToLocalFileTime"
+        },
+        {
+          "iat_ea": "0x006301AC",
+          "name": "GetSystemTimeAsFileTime"
+        },
+        {
+          "iat_ea": "0x006301B0",
+          "name": "RtlUnwind"
+        },
+        {
+          "iat_ea": "0x006301B4",
+          "name": "HeapAlloc"
+        },
+        {
+          "iat_ea": "0x006301B8",
+          "name": "HeapFree"
+        },
+        {
+          "iat_ea": "0x006301BC",
+          "name": "GetTimeFormatA"
+        },
+        {
+          "iat_ea": "0x006301C0",
+          "name": "GetDateFormatA"
+        },
+        {
+          "iat_ea": "0x006301C4",
+          "name": "FileTimeToSystemTime"
+        },
+        {
+          "iat_ea": "0x006301C8",
+          "name": "FindFirstFileA"
+        },
+        {
+          "iat_ea": "0x006301CC",
+          "name": "FindNextFileA"
+        },
+        {
+          "iat_ea": "0x006301D0",
+          "name": "GetModuleHandleW"
+        },
+        {
+          "iat_ea": "0x006301D4",
+          "name": "ExitProcess"
+        },
+        {
+          "iat_ea": "0x006301D8",
+          "name": "FindClose"
+        },
+        {
+          "iat_ea": "0x006301DC",
+          "name": "GetStartupInfoA"
+        },
+        {
+          "iat_ea": "0x006301E0",
+          "name": "GetFullPathNameA"
+        },
+        {
+          "iat_ea": "0x006301E4",
+          "name": "SetEnvironmentVariableA"
+        },
+        {
+          "iat_ea": "0x006301E8",
+          "name": "MoveFileA"
+        },
+        {
+          "iat_ea": "0x006301EC",
+          "name": "GetLocalTime"
+        },
+        {
+          "iat_ea": "0x006301F0",
+          "name": "TlsGetValue"
+        },
+        {
+          "iat_ea": "0x006301F4",
+          "name": "TlsAlloc"
+        },
+        {
+          "iat_ea": "0x006301F8",
+          "name": "TlsSetValue"
+        },
+        {
+          "iat_ea": "0x006301FC",
+          "name": "TlsFree"
+        },
+        {
+          "iat_ea": "0x00630200",
+          "name": "InterlockedIncrement"
+        },
+        {
+          "iat_ea": "0x00630204",
+          "name": "SetLastError"
+        },
+        {
+          "iat_ea": "0x00630208",
+          "name": "GetCurrentThreadId"
+        },
+        {
+          "iat_ea": "0x0063020C",
+          "name": "InterlockedDecrement"
+        },
+        {
+          "iat_ea": "0x00630210",
+          "name": "TerminateProcess"
+        },
+        {
+          "iat_ea": "0x00630214",
+          "name": "GetCurrentProcess"
+        },
+        {
+          "iat_ea": "0x00630218",
+          "name": "UnhandledExceptionFilter"
+        },
+        {
+          "iat_ea": "0x0063021C",
+          "name": "SetUnhandledExceptionFilter"
+        },
+        {
+          "iat_ea": "0x00630220",
+          "name": "IsDebuggerPresent"
+        }
+      ]
+    },
+    {
+      "dll": "ADVAPI32.dll",
+      "count": 8,
+      "symbols": [
+        {
+          "iat_ea": "0x00630000",
+          "name": "RegOpenKeyExA"
+        },
+        {
+          "iat_ea": "0x00630004",
+          "name": "RegCreateKeyExA"
+        },
+        {
+          "iat_ea": "0x00630008",
+          "name": "RegQueryValueExA"
+        },
+        {
+          "iat_ea": "0x0063000C",
+          "name": "RegDeleteValueA"
+        },
+        {
+          "iat_ea": "0x00630010",
+          "name": "RegDeleteKeyA"
+        },
+        {
+          "iat_ea": "0x00630014",
+          "name": "GetUserNameA"
+        },
+        {
+          "iat_ea": "0x00630018",
+          "name": "RegCloseKey"
+        },
+        {
+          "iat_ea": "0x0063001C",
+          "name": "RegSetValueExA"
+        }
+      ]
+    },
+    {
+      "dll": "WINMM.dll",
+      "count": 14,
+      "symbols": [
+        {
+          "iat_ea": "0x00630318",
+          "name": "timeGetTime"
+        },
+        {
+          "iat_ea": "0x0063031C",
+          "name": "mmioSeek"
+        },
+        {
+          "iat_ea": "0x00630320",
+          "name": "timeSetEvent"
+        },
+        {
+          "iat_ea": "0x00630324",
+          "name": "timeKillEvent"
+        },
+        {
+          "iat_ea": "0x00630328",
+          "name": "timeBeginPeriod"
+        },
+        {
+          "iat_ea": "0x0063032C",
+          "name": "timeEndPeriod"
+        },
+        {
+          "iat_ea": "0x00630330",
+          "name": "mmioClose"
+        },
+        {
+          "iat_ea": "0x00630334",
+          "name": "mmioAscend"
+        },
+        {
+          "iat_ea": "0x00630338",
+          "name": "mmioRead"
+        },
+        {
+          "iat_ea": "0x0063033C",
+          "name": "mmioOpenA"
+        },
+        {
+          "iat_ea": "0x00630340",
+          "name": "mmioSetInfo"
+        },
+        {
+          "iat_ea": "0x00630344",
+          "name": "mmioAdvance"
+        },
+        {
+          "iat_ea": "0x00630348",
+          "name": "mmioGetInfo"
+        },
+        {
+          "iat_ea": "0x0063034C",
+          "name": "mmioDescend"
+        }
+      ]
+    },
+    {
+      "dll": "binkw32.dll",
+      "count": 8,
+      "symbols": [
+        {
+          "iat_ea": "0x006303B4",
+          "name": "_BinkDoFrame@4"
+        },
+        {
+          "iat_ea": "0x006303B8",
+          "name": "_BinkCopyToBuffer@28"
+        },
+        {
+          "iat_ea": "0x006303BC",
+          "name": "_BinkNextFrame@4"
+        },
+        {
+          "iat_ea": "0x006303C0",
+          "name": "_BinkOpenDirectSound@4"
+        },
+        {
+          "iat_ea": "0x006303C4",
+          "name": "_BinkSetSoundSystem@8"
+        },
+        {
+          "iat_ea": "0x006303C8",
+          "name": "_BinkOpen@8"
+        },
+        {
+          "iat_ea": "0x006303CC",
+          "name": "_BinkWait@4"
+        },
+        {
+          "iat_ea": "0x006303D0",
+          "name": "_BinkClose@4"
+        }
+      ]
+    },
+    {
+      "dll": "WSOCK32.dll",
+      "count": 23,
+      "symbols": [
+        {
+          "iat_ea": "0x00630354",
+          "ordinal": 15
+        },
+        {
+          "iat_ea": "0x00630358",
+          "ordinal": 18
+        },
+        {
+          "iat_ea": "0x0063035C",
+          "ordinal": 111
+        },
+        {
+          "iat_ea": "0x00630360",
+          "ordinal": 20
+        },
+        {
+          "iat_ea": "0x00630364",
+          "ordinal": 8
+        },
+        {
+          "iat_ea": "0x00630368",
+          "ordinal": 12
+        },
+        {
+          "iat_ea": "0x0063036C",
+          "ordinal": 21
+        },
+        {
+          "iat_ea": "0x00630370",
+          "ordinal": 52
+        },
+        {
+          "iat_ea": "0x00630374",
+          "ordinal": 2
+        },
+        {
+          "iat_ea": "0x00630378",
+          "ordinal": 23
+        },
+        {
+          "iat_ea": "0x0063037C",
+          "ordinal": 17
+        },
+        {
+          "iat_ea": "0x00630380",
+          "ordinal": 151
+        },
+        {
+          "iat_ea": "0x00630384",
+          "ordinal": 116
+        },
+        {
+          "iat_ea": "0x00630388",
+          "ordinal": 3
+        },
+        {
+          "iat_ea": "0x0063038C",
+          "ordinal": 22
+        },
+        {
+          "iat_ea": "0x00630390",
+          "ordinal": 113
+        },
+        {
+          "iat_ea": "0x00630394",
+          "ordinal": 115
+        },
+        {
+          "iat_ea": "0x00630398",
+          "ordinal": 57
+        },
+        {
+          "iat_ea": "0x0063039C",
+          "ordinal": 9
+        },
+        {
+          "iat_ea": "0x006303A0",
+          "ordinal": 11
+        },
+        {
+          "iat_ea": "0x006303A4",
+          "ordinal": 10
+        },
+        {
+          "iat_ea": "0x006303A8",
+          "ordinal": 14
+        },
+        {
+          "iat_ea": "0x006303AC",
+          "ordinal": 7
+        }
+      ]
+    },
+    {
+      "dll": "MSACM32.dll",
+      "count": 13,
+      "symbols": [
+        {
+          "iat_ea": "0x00630228",
+          "name": "acmDriverClose"
+        },
+        {
+          "iat_ea": "0x0063022C",
+          "name": "acmGetVersion"
+        },
+        {
+          "iat_ea": "0x00630230",
+          "name": "acmDriverEnum"
+        },
+        {
+          "iat_ea": "0x00630234",
+          "name": "acmDriverOpen"
+        },
+        {
+          "iat_ea": "0x00630238",
+          "name": "acmDriverPriority"
+        },
+        {
+          "iat_ea": "0x0063023C",
+          "name": "acmStreamSize"
+        },
+        {
+          "iat_ea": "0x00630240",
+          "name": "acmStreamPrepareHeader"
+        },
+        {
+          "iat_ea": "0x00630244",
+          "name": "acmStreamConvert"
+        },
+        {
+          "iat_ea": "0x00630248",
+          "name": "acmStreamUnprepareHeader"
+        },
+        {
+          "iat_ea": "0x0063024C",
+          "name": "acmStreamClose"
+        },
+        {
+          "iat_ea": "0x00630250",
+          "name": "acmStreamOpen"
+        },
+        {
+          "iat_ea": "0x00630254",
+          "name": "acmDriverDetailsA"
+        },
+        {
+          "iat_ea": "0x00630258",
+          "name": "acmMetrics"
+        }
+      ]
+    },
+    {
+      "dll": "USER32.dll",
+      "count": 45,
+      "symbols": [
+        {
+          "iat_ea": "0x00630260",
+          "name": "wvsprintfA"
+        },
+        {
+          "iat_ea": "0x00630264",
+          "name": "wsprintfA"
+        },
+        {
+          "iat_ea": "0x00630268",
+          "name": "OpenClipboard"
+        },
+        {
+          "iat_ea": "0x0063026C",
+          "name": "GetClipboardData"
+        },
+        {
+          "iat_ea": "0x00630270",
+          "name": "CloseClipboard"
+        },
+        {
+          "iat_ea": "0x00630274",
+          "name": "PostMessageA"
+        },
+        {
+          "iat_ea": "0x00630278",
+          "name": "DefWindowProcA"
+        },
+        {
+          "iat_ea": "0x0063027C",
+          "name": "LoadIconA"
+        },
+        {
+          "iat_ea": "0x00630280",
+          "name": "LoadCursorA"
+        },
+        {
+          "iat_ea": "0x00630284",
+          "name": "RegisterClassExA"
+        },
+        {
+          "iat_ea": "0x00630288",
+          "name": "CreateWindowExA"
+        },
+        {
+          "iat_ea": "0x0063028C",
+          "name": "UpdateWindow"
+        },
+        {
+          "iat_ea": "0x00630290",
+          "name": "ShowCursor"
+        },
+        {
+          "iat_ea": "0x00630294",
+          "name": "ClipCursor"
+        },
+        {
+          "iat_ea": "0x00630298",
+          "name": "WaitMessage"
+        },
+        {
+          "iat_ea": "0x0063029C",
+          "name": "PeekMessageA"
+        },
+        {
+          "iat_ea": "0x006302A0",
+          "name": "TranslateMessage"
+        },
+        {
+          "iat_ea": "0x006302A4",
+          "name": "DispatchMessageA"
+        },
+        {
+          "iat_ea": "0x006302A8",
+          "name": "EnumWindows"
+        },
+        {
+          "iat_ea": "0x006302AC",
+          "name": "FindWindowA"
+        },
+        {
+          "iat_ea": "0x006302B0",
+          "name": "SetWindowsHookExA"
+        },
+        {
+          "iat_ea": "0x006302B4",
+          "name": "SetWindowTextA"
+        },
+        {
+          "iat_ea": "0x006302B8",
+          "name": "GetWindowTextA"
+        },
+        {
+          "iat_ea": "0x006302BC",
+          "name": "GetAsyncKeyState"
+        },
+        {
+          "iat_ea": "0x006302C0",
+          "name": "CallNextHookEx"
+        },
+        {
+          "iat_ea": "0x006302C4",
+          "name": "GetMessageTime"
+        },
+        {
+          "iat_ea": "0x006302C8",
+          "name": "GetKeyboardState"
+        },
+        {
+          "iat_ea": "0x006302CC",
+          "name": "SetKeyboardState"
+        },
+        {
+          "iat_ea": "0x006302D0",
+          "name": "ClientToScreen"
+        },
+        {
+          "iat_ea": "0x006302D4",
+          "name": "SetCursorPos"
+        },
+        {
+          "iat_ea": "0x006302D8",
+          "name": "GetCursorPos"
+        },
+        {
+          "iat_ea": "0x006302DC",
+          "name": "ScreenToClient"
+        },
+        {
+          "iat_ea": "0x006302E0",
+          "name": "AdjustWindowRect"
+        },
+        {
+          "iat_ea": "0x006302E4",
+          "name": "ReleaseDC"
+        },
+        {
+          "iat_ea": "0x006302E8",
+          "name": "FillRect"
+        },
+        {
+          "iat_ea": "0x006302EC",
+          "name": "GetClientRect"
+        },
+        {
+          "iat_ea": "0x006302F0",
+          "name": "GetDC"
+        },
+        {
+          "iat_ea": "0x006302F4",
+          "name": "MessageBoxA"
+        },
+        {
+          "iat_ea": "0x006302F8",
+          "name": "GetSystemMetrics"
+        },
+        {
+          "iat_ea": "0x006302FC",
+          "name": "SetForegroundWindow"
+        },
+        {
+          "iat_ea": "0x00630300",
+          "name": "SetActiveWindow"
+        },
+        {
+          "iat_ea": "0x00630304",
+          "name": "SetWindowPos"
+        },
+        {
+          "iat_ea": "0x00630308",
+          "name": "SetWindowLongA"
+        },
+        {
+          "iat_ea": "0x0063030C",
+          "name": "ShowWindow"
+        },
+        {
+          "iat_ea": "0x00630310",
+          "name": "SystemParametersInfoA"
+        }
+      ]
+    },
+    {
+      "dll": "GDI32.dll",
+      "count": 6,
+      "symbols": [
+        {
+          "iat_ea": "0x00630024",
+          "name": "GetStockObject"
+        },
+        {
+          "iat_ea": "0x00630028",
+          "name": "SetTextColor"
+        },
+        {
+          "iat_ea": "0x0063002C",
+          "name": "TextOutA"
+        },
+        {
+          "iat_ea": "0x00630030",
+          "name": "SetBkColor"
+        },
+        {
+          "iat_ea": "0x00630034",
+          "name": "GetTextExtentPoint32A"
+        },
+        {
+          "iat_ea": "0x00630038",
+          "name": "SetTextAlign"
+        }
+      ]
+    },
+    {
+      "dll": "ole32.dll",
+      "count": 3,
+      "symbols": [
+        {
+          "iat_ea": "0x006303D8",
+          "name": "CoInitialize"
+        },
+        {
+          "iat_ea": "0x006303DC",
+          "name": "CoUninitialize"
+        },
+        {
+          "iat_ea": "0x006303E0",
+          "name": "CoCreateInstance"
+        }
+      ]
+    }
+  ],
+  "embedded_dll_strings": [
+    {
+      "value": "dinput8.dll",
+      "file_offset": 2360400,
+      "ea": "0x00641850"
+    },
+    {
+      "value": "a3d.dll",
+      "file_offset": 2362096,
+      "ea": "0x00641EF0"
+    },
+    {
+      "value": "rasapi32.dll",
+      "file_offset": 2364000,
+      "ea": "0x00642660"
+    },
+    {
+      "value": "d3d8.dll",
+      "file_offset": 2379452,
+      "ea": "0x006462BC"
+    },
+    {
+      "value": "msacm32.dll",
+      "file_offset": 2382744,
+      "ea": "0x00646F98"
+    },
+    {
+      "value": "USER32.DLL",
+      "file_offset": 2441060,
+      "ea": "0x00655364"
+    },
+    {
+      "value": "KERNEL32.dll",
+      "file_offset": 2482526,
+      "ea": "0x0065F55E"
+    },
+    {
+      "value": "ADVAPI32.dll",
+      "file_offset": 2482556,
+      "ea": "0x0065F57C"
+    },
+    {
+      "value": "WINMM.dll",
+      "file_offset": 2482768,
+      "ea": "0x0065F650"
+    },
+    {
+      "value": "binkw32.dll",
+      "file_offset": 2482934,
+      "ea": "0x0065F6F6"
+    },
+    {
+      "value": "WSOCK32.dll",
+      "file_offset": 2482946,
+      "ea": "0x0065F702"
+    },
+    {
+      "value": "MSACM32.dll",
+      "file_offset": 2483202,
+      "ea": "0x0065F802"
+    },
+    {
+      "value": "USER32.dll",
+      "file_offset": 2486062,
+      "ea": "0x0066032E"
+    },
+    {
+      "value": "GDI32.dll",
+      "file_offset": 2486174,
+      "ea": "0x0066039E"
+    },
+    {
+      "value": "ole32.dll",
+      "file_offset": 2486358,
+      "ea": "0x00660456"
+    }
+  ],
+  "dynamic_export_name_strings": [
+    {
+      "value": "Direct3DCreate8",
+      "file_offset": 2379540
+    },
+    {
+      "value": "DirectInput8Create",
+      "file_offset": 2360476
+    }
+  ],
+  "scope": "Original Windows executable imports and observed dynamic library/export strings."
+}

@@ -1,0 +1,29 @@
+// IDA pseudocode evidence; not yet portable or build-ready.
+// 0x00562A70 rf_model_handle_set_cyclic_mix_or_scene_mode2
+// UNREALRED VERIFIED (2026-11-04; original PE bytes, fresh disassembly, tagged model bounds, scene transform propagation, by-value matrix ABI, named spheres and cyclic/action dispatch): Tag2 delegates587560 cyclic-action find/add by action identity and mix float, clearing character frozen byte when admitted. Tag3 ignores action index and float magnitude:exact float0 sets instance bit4;nonzero clears4,sets2,and zeroes clocks12/16. Does not set bit8 or clear draining low bit. Other tags no change; raw EAX incidental.
+int *__thiscall rf_model_handle_set_cyclic_mix_or_scene_mode2(int *this, int a2, float a3)
+{
+  int *result; // eax
+
+  if ( *this == 2 )
+    return (int *)rf_character_instance_set_cyclic_action_mix(*(this + 1), a2, a3);
+  result = this;
+  if ( *this == 3 )
+  {
+    if ( a3 == 0.0 )
+    {
+      *(_DWORD *)*(this + 1) |= 4u;
+      return this;
+    }
+    else
+    {
+      *(_DWORD *)*(this + 1) &= ~4u;
+      *(_DWORD *)*(this + 1) |= 2u;
+      result = (int *)*(this + 1);
+      *((float *)result + 4) = 0.0;
+      *(float *)(*(this + 1) + 12) = 0.0;
+    }
+  }
+  return result;
+}
+

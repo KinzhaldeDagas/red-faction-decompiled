@@ -1,0 +1,178 @@
+{
+  "complete": true,
+  "source_database": "USER_SUPPLIED_IDA_DATABASE",
+  "canonical_database_sha256": "7dd177fff2ff220a5621e928c6ef33eafe94a50261a52900f2c580c396f018b1",
+  "reference_executable_sha256": "f4d0df8ad062f99fd3fb4c858c66c4107e3629800d357499727af332142ea9f9",
+  "input_file": "USER_SUPPLIED_RF_EXE",
+  "functions": 7164,
+  "C_decompiled": 7155,
+  "native_only": [
+    {
+      "ea": "0x00605A2D",
+      "name": "crt_sqrt_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 212,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x00605AC3",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x00605A2D.asm"
+    },
+    {
+      "ea": "0x00606268",
+      "name": "crt_cos_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 200,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x006062F2",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x00606268.asm"
+    },
+    {
+      "ea": "0x00606398",
+      "name": "crt_sin_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 200,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x00606422",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x00606398.asm"
+    },
+    {
+      "ea": "0x006064C8",
+      "name": "crt_acos_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 229,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x0060656F",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x006064C8.asm"
+    },
+    {
+      "ea": "0x00606B88",
+      "name": "crt_atan_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 185,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x00606C03",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x00606B88.asm"
+    },
+    {
+      "ea": "0x00609EF8",
+      "name": "crt_log_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 239,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x00609FA9",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x00609EF8.asm"
+    },
+    {
+      "ea": "0x0060A048",
+      "name": "crt_tan_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 204,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x0060A0D6",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x0060A048.asm"
+    },
+    {
+      "ea": "0x0060AE68",
+      "name": "crt_asin_x87_core",
+      "stored_type": "long double __usercall@<st0>(long double value@<st0>, unsigned int classification@<eax>, bool exponentAllOnes@<zf>, double original)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 229,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x0060AF0F",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x0060AE68.asm"
+    },
+    {
+      "ea": "0x0060DFD9",
+      "name": "__check_range_exit",
+      "stored_type": "double __fastcall(_DWORD, _DWORD)",
+      "library": true,
+      "thunk": false,
+      "native_verified": true,
+      "native_bytes": 163,
+      "decompiled": false,
+      "failure": {
+        "code": -12,
+        "ea": "0x0060E017",
+        "description": "call analysis failed"
+      },
+      "native_source": "generated/native_only/0x0060DFD9.asm"
+    }
+  ],
+  "native_verified": 7164,
+  "local_types": 219,
+  "identity": {
+    "rf_exe_sha256": "f4d0df8ad062f99fd3fb4c858c66c4107e3629800d357499727af332142ea9f9",
+    "code_sections": [
+      {
+        "name": ".text",
+        "start": "0x00401000",
+        "size_bytes": 2287616,
+        "rf_exe_file_offset": 1024,
+        "ida_sha256": "0d006dc50dfd9cec5544058519ac87179bdecb91665f1ec5c388329e051a5c2d",
+        "rf_exe_sha256": "0d006dc50dfd9cec5544058519ac87179bdecb91665f1ec5c388329e051a5c2d",
+        "bytes_match": true
+      }
+    ],
+    "all_code_sections_match": true,
+    "patched_bytes": []
+  },
+  "combined_source_sha256": "aa18aeb576e5561e8ebcab2f28c499290d7ed84216f0e66c3ff120a4d98d3dd1",
+  "database_saved": false,
+  "machine_code_patched": false,
+  "native_macOS_game_compiled": false,
+  "seconds": 160.3
+}

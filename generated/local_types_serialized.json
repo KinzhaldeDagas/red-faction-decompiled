@@ -1,0 +1,2816 @@
+{
+  "1": {
+    "name": "__TI_flags",
+    "serialized": [
+      {
+        "hex": "2d069002410242024402480250"
+      },
+      {
+        "hex": "0b54495f4973436f6e73740e54495f4973566f6c6174696c650f54495f4973556e616c69676e65640a54495f4973507572650b54495f497357696e5254"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "2": {
+    "name": "__CT_flags",
+    "serialized": [
+      {
+        "hex": "2d069002410242024402480250"
+      },
+      {
+        "hex": "1043545f497353696d706c65547970651343545f42795265666572656e63654f6e6c791243545f4861735669727475616c426173651143545f497357696e525448616e646c651143545f4973537464426164416c6c6f63"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "3": {
+    "name": "_EH4_SCOPETABLE_RECORD",
+    "serialized": [
+      {
+        "hex": "0d19070a010a01"
+      },
+      {
+        "hex": "0f456e636c6f73696e674c6576656c0b46696c74657246756e630c48616e646c657246756e63"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "4": {
+    "name": "_EH4_SCOPETABLE",
+    "serialized": [
+      {
+        "hex": "0d293d0644574f52443d0644574f52443d0644574f52443d0644574f52441b010d01032343"
+      },
+      {
+        "hex": "0f4753436f6f6b69654f6666736574124753436f6f6b6965584f524f66667365740f4548436f6f6b69654f6666736574124548436f6f6b6965584f524f66667365740c53636f70655265636f7264"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "5": {
+    "name": "DWORD",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "6": {
+    "name": "PVOID",
+    "serialized": [
+      {
+        "hex": "0a01"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "7": {
+    "name": "PSCOPETABLE_ENTRY",
+    "serialized": [
+      {
+        "hex": "0a0d01125f53434f50455441424c455f454e545259"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "8": {
+    "name": "_EH3_EXCEPTION_REGISTRATION",
+    "serialized": [
+      {
+        "hex": "0d210a0d011c5f4548335f455843455054494f4e5f524547495354524154494f4e3d0323463d0323473d032345"
+      },
+      {
+        "hex": "054e65787411457863657074696f6e48616e646c65720b53636f70655461626c65095472794c6576656c"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "9": {
+    "name": "EH3_EXCEPTION_REGISTRATION",
+    "serialized": [
+      {
+        "hex": "0d01032348"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "10": {
+    "name": "PEH3_EXCEPTION_REGISTRATION",
+    "serialized": [
+      {
+        "hex": "0a0d01032348"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "11": {
+    "name": "CPPEH_RECORD",
+    "serialized": [
+      {
+        "hex": "0d193d0323450a3d13455843455054494f4e5f504f494e544552530d01032348"
+      },
+      {
+        "hex": "086f6c645f657370086578635f7074720d726567697374726174696f6e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "12": {
+    "name": "u_long",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "13": {
+    "name": "in_addr",
+    "serialized": [
+      {
+        "hex": "0d091d0103234e"
+      },
+      {
+        "hex": "05535f756e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "14": {
+    "name": "in_addr::$4F64C6817212FE4AF89030399F21EE2D",
+    "serialized": [
+      {
+        "hex": "1d190d0103234f0d010323513d032353"
+      },
+      {
+        "hex": "07535f756e5f6207535f756e5f7707535f61646472"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "15": {
+    "name": "in_addr::$4F64C6817212FE4AF89030399F21EE2D::$F085A1F6735C7CEA9C650424FAF692B1",
+    "serialized": [
+      {
+        "hex": "0d213d0323503d0323503d0323503d032350"
+      },
+      {
+        "hex": "05735f623105735f623205735f623305735f6234"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "16": {
+    "name": "UCHAR",
+    "serialized": [
+      {
+        "hex": "22"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "17": {
+    "name": "in_addr::$4F64C6817212FE4AF89030399F21EE2D::$B9D7529FFD1842B2B059BD2E926FB2C5",
+    "serialized": [
+      {
+        "hex": "0d113d0323523d032352"
+      },
+      {
+        "hex": "05735f773105735f7732"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "18": {
+    "name": "USHORT",
+    "serialized": [
+      {
+        "hex": "23"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "19": {
+    "name": "ULONG",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "20": {
+    "name": "CHAR",
+    "serialized": [
+      {
+        "hex": "32"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "21": {
+    "name": "HINSTANCE",
+    "serialized": [
+      {
+        "hex": "0a0d01032356"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "22": {
+    "name": "HINSTANCE__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "23": {
+    "name": "LPSTR",
+    "serialized": [
+      {
+        "hex": "0a3d032354"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "24": {
+    "name": "LPCSTR",
+    "serialized": [
+      {
+        "hex": "0a7d032354"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "25": {
+    "name": "_RTL_CRITICAL_SECTION",
+    "serialized": [
+      {
+        "hex": "0d353d03235a3d03235f3d03235f3d0323603d0323603d032361"
+      },
+      {
+        "hex": "0a4465627567496e666f0a4c6f636b436f756e740f526563757273696f6e436f756e740d4f776e696e675468726561640e4c6f636b53656d6170686f72650a5370696e436f756e74"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "26": {
+    "name": "PRTL_CRITICAL_SECTION_DEBUG",
+    "serialized": [
+      {
+        "hex": "0a0d0103235b"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "27": {
+    "name": "_RTL_CRITICAL_SECTION_DEBUG",
+    "serialized": [
+      {
+        "hex": "0d493d03235c3d03235c0a0d010323593d03235d3d0323453d0323453d0323453d03235c3d03235c"
+      },
+      {
+        "hex": "05547970651643726561746f724261636b5472616365496e64657810437269746963616c53656374696f6e1150726f636573734c6f636b734c6973740b456e747279436f756e7410436f6e74656e74696f6e436f756e7406466c6167731a43726561746f724261636b5472616365496e646578486967680a5370617265574f5244"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "28": {
+    "name": "WORD",
+    "serialized": [
+      {
+        "hex": "23"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "29": {
+    "name": "LIST_ENTRY",
+    "serialized": [
+      {
+        "hex": "0d0103235e"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "30": {
+    "name": "_LIST_ENTRY",
+    "serialized": [
+      {
+        "hex": "0d110a0d0103235e0a0d0103235e"
+      },
+      {
+        "hex": "06466c696e6b06426c696e6b"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "31": {
+    "name": "LONG",
+    "serialized": [
+      {
+        "hex": "07"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "32": {
+    "name": "HANDLE",
+    "serialized": [
+      {
+        "hex": "0a01"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "33": {
+    "name": "ULONG_PTR",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "34": {
+    "name": "LARGE_INTEGER",
+    "serialized": [
+      {
+        "hex": "1d01032363"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "35": {
+    "name": "_LARGE_INTEGER",
+    "serialized": [
+      {
+        "hex": "1d190d010323640d010323643d032365"
+      },
+      {
+        "hex": "010275095175616450617274"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "36": {
+    "name": "_LARGE_INTEGER::$837407842DC9087486FDFA5FEB63B74E",
+    "serialized": [
+      {
+        "hex": "0d113d0323453d03235f"
+      },
+      {
+        "hex": "084c6f7750617274094869676850617274"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "37": {
+    "name": "LONGLONG",
+    "serialized": [
+      {
+        "hex": "05"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "38": {
+    "name": "HWND",
+    "serialized": [
+      {
+        "hex": "0a0d01032367"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "39": {
+    "name": "HWND__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "40": {
+    "name": "tagRECT",
+    "serialized": [
+      {
+        "hex": "0d213d03235f3d03235f3d03235f3d03235f"
+      },
+      {
+        "hex": "056c65667404746f7006726967687407626f74746f6d"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "41": {
+    "name": "HDC",
+    "serialized": [
+      {
+        "hex": "0a0d0103236a"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "42": {
+    "name": "HDC__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "43": {
+    "name": "RECT",
+    "serialized": [
+      {
+        "hex": "0d01032368"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "44": {
+    "name": "COLORREF",
+    "serialized": [
+      {
+        "hex": "3d032345"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "45": {
+    "name": "tagSIZE",
+    "serialized": [
+      {
+        "hex": "0d113d03235f3d03235f"
+      },
+      {
+        "hex": "036378036379"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "46": {
+    "name": "tagPOINT",
+    "serialized": [
+      {
+        "hex": "0d113d03235f3d03235f"
+      },
+      {
+        "hex": "02780279"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "47": {
+    "name": "BYTE",
+    "serialized": [
+      {
+        "hex": "22"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "48": {
+    "name": "_OSVERSIONINFOA",
+    "serialized": [
+      {
+        "hex": "0d313d0323453d0323453d0323453d0323453d0323451b81013d032354"
+      },
+      {
+        "hex": "1464774f5356657273696f6e496e666f53697a650f64774d616a6f7256657273696f6e0f64774d696e6f7256657273696f6e0e64774275696c644e756d6265720d6477506c6174666f726d49640d737a43534456657273696f6e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "49": {
+    "name": "IID",
+    "serialized": [
+      {
+        "hex": "3d032372"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "50": {
+    "name": "GUID",
+    "serialized": [
+      {
+        "hex": "0d01032373"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "51": {
+    "name": "_GUID",
+    "serialized": [
+      {
+        "hex": "0d212723231b0922"
+      },
+      {
+        "hex": "064461746131064461746132064461746133064461746134"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "52": {
+    "name": "HMODULE",
+    "serialized": [
+      {
+        "hex": "3d032355"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "53": {
+    "name": "HMMIO",
+    "serialized": [
+      {
+        "hex": "0a0d01032376"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "54": {
+    "name": "HMMIO__",
+    "serialized": [
+      {
+        "hex": "0d0a07"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "55": {
+    "name": "WPARAM",
+    "serialized": [
+      {
+        "hex": "3d032378"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "56": {
+    "name": "UINT_PTR",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "57": {
+    "name": "LPARAM",
+    "serialized": [
+      {
+        "hex": "3d03237a"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "58": {
+    "name": "LONG_PTR",
+    "serialized": [
+      {
+        "hex": "07"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "59": {
+    "name": "LPVOID",
+    "serialized": [
+      {
+        "hex": "0a01"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "60": {
+    "name": "tagMSG",
+    "serialized": [
+      {
+        "hex": "0d313d0323663d03237d3d0323773d0323793d0323453d03237e"
+      },
+      {
+        "hex": "0568776e64086d6573736167650777506172616d076c506172616d0574696d65037074"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "61": {
+    "name": "UINT",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "62": {
+    "name": "POINT",
+    "serialized": [
+      {
+        "hex": "0d0103236e"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "63": {
+    "name": "WNDCLASSEXA",
+    "serialized": [
+      {
+        "hex": "0d0104238140"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "64": {
+    "name": "tagWNDCLASSEXA",
+    "serialized": [
+      {
+        "hex": "0d613d03237d3d03237d3d0423814107073d0323553d042381433d042381453d042381463d0323583d0323583d04238143"
+      },
+      {
+        "hex": "07636253697a65067374796c650c6c70666e576e6450726f630b6362436c7345787472610b6362576e6445787472610a68496e7374616e6365066849636f6e0868437572736f720e6862724261636b67726f756e640d6c70737a4d656e754e616d650e6c70737a436c6173734e616d65086849636f6e536d"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "65": {
+    "name": "WNDPROC",
+    "serialized": [
+      {
+        "hex": "0a0c533d04238142053d0323663d03237d3d0323773d032379"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "66": {
+    "name": "LRESULT",
+    "serialized": [
+      {
+        "hex": "3d03237a"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "67": {
+    "name": "HICON",
+    "serialized": [
+      {
+        "hex": "0a0d0104238144"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "68": {
+    "name": "HICON__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "69": {
+    "name": "HCURSOR",
+    "serialized": [
+      {
+        "hex": "3d04238143"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "70": {
+    "name": "HBRUSH",
+    "serialized": [
+      {
+        "hex": "0a0d0104238147"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "71": {
+    "name": "HBRUSH__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "72": {
+    "name": "_MEMORYSTATUS",
+    "serialized": [
+      {
+        "hex": "0d413d0323453d0323453d042381493d042381493d042381493d042381493d042381493d04238149"
+      },
+      {
+        "hex": "0964774c656e6774680d64774d656d6f72794c6f61640c6477546f74616c506879730c6477417661696c50687973106477546f74616c5061676546696c65106477417661696c5061676546696c650f6477546f74616c5669727475616c0f6477417661696c5669727475616c"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "73": {
+    "name": "SIZE_T",
+    "serialized": [
+      {
+        "hex": "3d032361"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "74": {
+    "name": "HGLOBAL",
+    "serialized": [
+      {
+        "hex": "3d032360"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "75": {
+    "name": "fd_set",
+    "serialized": [
+      {
+        "hex": "0d113d0423814c1b413d0423814d"
+      },
+      {
+        "hex": "0966645f636f756e740966645f6172726179"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "76": {
+    "name": "u_int",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "77": {
+    "name": "SOCKET",
+    "serialized": [
+      {
+        "hex": "3d032378"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "78": {
+    "name": "timeval",
+    "serialized": [
+      {
+        "hex": "0d110707"
+      },
+      {
+        "hex": "0774765f7365630874765f75736563"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "79": {
+    "name": "sockaddr",
+    "serialized": [
+      {
+        "hex": "0d113d042381501b0f3d032354"
+      },
+      {
+        "hex": "0a73615f66616d696c790873615f64617461"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "80": {
+    "name": "ADDRESS_FAMILY",
+    "serialized": [
+      {
+        "hex": "3d032352"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "81": {
+    "name": "WSAData",
+    "serialized": [
+      {
+        "hex": "0d393d03235c3d03235c1b8202321b82013223230a32"
+      },
+      {
+        "hex": "097756657273696f6e0d774869676856657273696f6e0e737a4465736372697074696f6e0f737a53797374656d5374617475730c694d6178536f636b6574730a694d617855647044670d6c7056656e646f72496e666f"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "82": {
+    "name": "HKEY",
+    "serialized": [
+      {
+        "hex": "0a0d0104238153"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "83": {
+    "name": "HKEY__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "84": {
+    "name": "LPBYTE",
+    "serialized": [
+      {
+        "hex": "0a3d03236f"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "85": {
+    "name": "_MEMORY_BASIC_INFORMATION",
+    "serialized": [
+      {
+        "hex": "0d393d0323463d0323463d0323453d042381493d0323453d0323453d032345"
+      },
+      {
+        "hex": "0c42617365416464726573730f416c6c6f636174696f6e4261736512416c6c6f636174696f6e50726f746563740b526567696f6e53697a650653746174650850726f746563740554797065"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "86": {
+    "name": "va_list",
+    "serialized": [
+      {
+        "hex": "0a32"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "87": {
+    "name": "_SYSTEM_INFO",
+    "serialized": [
+      {
+        "hex": "0d511d01042381583d0323453d03237b3d03237b3d0423815a3d0323453d0323453d0323453d03235c3d03235c"
+      },
+      {
+        "hex": "010b64775061676553697a651c6c704d696e696d756d4170706c69636174696f6e416464726573731c6c704d6178696d756d4170706c69636174696f6e4164647265737316647741637469766550726f636573736f724d61736b1564774e756d6265724f6650726f636573736f727310647750726f636573736f7254797065186477416c6c6f636174696f6e4772616e756c6172697479107750726f636573736f724c6576656c137750726f636573736f725265766973696f6e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "88": {
+    "name": "_SYSTEM_INFO::$A707B71C060B6D10F73A71917EA8473F",
+    "serialized": [
+      {
+        "hex": "1d113d0323450d0104238159"
+      },
+      {
+        "hex": "0864774f656d4964"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "89": {
+    "name": "_SYSTEM_INFO::$A707B71C060B6D10F73A71917EA8473F::$AA04DEB0C6383F89F13D312A174572A9",
+    "serialized": [
+      {
+        "hex": "0d113d03235c3d03235c"
+      },
+      {
+        "hex": "177750726f636573736f724172636869746563747572650a775265736572766564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "90": {
+    "name": "DWORD_PTR",
+    "serialized": [
+      {
+        "hex": "3d032361"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "91": {
+    "name": "_FILETIME",
+    "serialized": [
+      {
+        "hex": "0d113d0323453d032345"
+      },
+      {
+        "hex": "0e64774c6f774461746554696d650f6477486967684461746554696d65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "92": {
+    "name": "FILETIME",
+    "serialized": [
+      {
+        "hex": "0d010423815b"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "93": {
+    "name": "HACMDRIVERID",
+    "serialized": [
+      {
+        "hex": "0a0d010423815e"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "94": {
+    "name": "HACMDRIVERID__",
+    "serialized": [
+      {
+        "hex": "0d0a07"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "95": {
+    "name": "tACMDRIVERDETAILSA",
+    "serialized": [
+      {
+        "hex": "0d82013d0323453d042381603d042381603d03235c3d03235c3d0323453d0323453d0323453d0323453d0323453d042381431b21321b8101321b51321b8101321b810432"
+      },
+      {
+        "hex": "096362537472756374086663635479706508666363436f6d7005774d696405775069640776647741434d0a7664774472697665720b666477537570706f72740c63466f726d6174546167730c6346696c74657254616773066869636f6e0c737a53686f72744e616d650b737a4c6f6e674e616d650c737a436f707972696768740c737a4c6963656e73696e670b737a4665617475726573"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "96": {
+    "name": "FOURCC",
+    "serialized": [
+      {
+        "hex": "3d032345"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "97": {
+    "name": "LPHACMSTREAM",
+    "serialized": [
+      {
+        "hex": "0a3d04238162"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "98": {
+    "name": "HACMSTREAM",
+    "serialized": [
+      {
+        "hex": "0a0d0104238163"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "99": {
+    "name": "HACMSTREAM__",
+    "serialized": [
+      {
+        "hex": "0d0a07"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "100": {
+    "name": "LPWAVEFORMATEX",
+    "serialized": [
+      {
+        "hex": "0a0d0104238165"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "101": {
+    "name": "tWAVEFORMATEX",
+    "serialized": [
+      {
+        "hex": "0d3a3d03235c3d03235c3d0323453d0323453d03235c3d03235c3d03235c"
+      },
+      {
+        "hex": "0b77466f726d61745461670a6e4368616e6e656c730f6e53616d706c6573506572536563106e41766742797465735065725365630c6e426c6f636b416c69676e0f774269747350657253616d706c6507636253697a65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "102": {
+    "name": "tACMSTREAMHEADER",
+    "serialized": [
+      {
+        "hex": "0d623d0323453d0323453d0423815a3d042381543d0323453d0323453d0423815a3d042381543d0323453d0323453d0423815a1b0b3d032345"
+      },
+      {
+        "hex": "0963625374727563740a666477537461747573076477557365720670625372630c63625372634c656e6774681063625372634c656e677468557365640a6477537263557365720670624473740c63624473744c656e6774681063624473744c656e677468557365640a6477447374557365721164775265736572766564447269766572"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "103": {
+    "name": "LPMMCKINFO",
+    "serialized": [
+      {
+        "hex": "0a0d0104238168"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "104": {
+    "name": "_MMCKINFO",
+    "serialized": [
+      {
+        "hex": "0d2a3d042381603d0323453d042381603d0323453d032345"
+      },
+      {
+        "hex": "05636b696407636b73697a6508666363547970650d6477446174614f6666736574086477466c616773"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "105": {
+    "name": "_MMIOINFO",
+    "serialized": [
+      {
+        "hex": "0d82013d0323453d042381603d0423816a3d03237d3d0423816c3d03235f3d0423816e3d0423816e3d0423816e3d0423816e3d03235f3d03235f1b043d0323453d0323453d0323453d032375"
+      },
+      {
+        "hex": "086477466c6167730a666363494f50726f630870494f50726f630a774572726f7252657406687461736b0a6363684275666665720a706368427566666572087063684e6578740b706368456e64526561640c706368456e6457726974650b6c4275664f66667365740c6c4469736b4f666673657408616477496e666f0c64775265736572766564310c647752657365727665643206686d6d696f"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "106": {
+    "name": "LPMMIOPROC",
+    "serialized": [
+      {
+        "hex": "0a3d0423816b"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "107": {
+    "name": "MMIOPROC",
+    "serialized": [
+      {
+        "hex": "0c533d04238142053d0323573d03237d3d0323793d032379"
+      },
+      {
+        "hex": "0b6c706d6d696f696e666f05754d7367086c506172616d31086c506172616d32"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "108": {
+    "name": "HTASK",
+    "serialized": [
+      {
+        "hex": "0a0d010423816d"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "109": {
+    "name": "HTASK__",
+    "serialized": [
+      {
+        "hex": "0d0907"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "110": {
+    "name": "HPSTR",
+    "serialized": [
+      {
+        "hex": "0a32"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "111": {
+    "name": "PEXCEPTION_RECORD",
+    "serialized": [
+      {
+        "hex": "0a3d04238170"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "112": {
+    "name": "EXCEPTION_RECORD",
+    "serialized": [
+      {
+        "hex": "0d0104238171"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "113": {
+    "name": "_EXCEPTION_RECORD",
+    "serialized": [
+      {
+        "hex": "0d313d0323453d0323450a0d01042381713d0323463d0323451b103d032361"
+      },
+      {
+        "hex": "0e457863657074696f6e436f64650f457863657074696f6e466c61677310457863657074696f6e5265636f726411457863657074696f6e41646472657373114e756d626572506172616d657465727315457863657074696f6e496e666f726d6174696f6e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "114": {
+    "name": "SYSTEMTIME",
+    "serialized": [
+      {
+        "hex": "0d0104238173"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "115": {
+    "name": "_SYSTEMTIME",
+    "serialized": [
+      {
+        "hex": "0d413d03235c3d03235c3d03235c3d03235c3d03235c3d03235c3d03235c3d03235c"
+      },
+      {
+        "hex": "06775965617207774d6f6e74680b774461794f665765656b05774461790677486f757208774d696e75746508775365636f6e640e774d696c6c697365636f6e6473"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "116": {
+    "name": "_WIN32_FIND_DATAA",
+    "serialized": [
+      {
+        "hex": "0d513d0323453d0423815c3d0423815c3d0423815c3d0323453d0323453d0323453d0323451b85023d0323541b0f3d032354"
+      },
+      {
+        "hex": "11647746696c65417474726962757465730f66744372656174696f6e54696d651166744c61737441636365737354696d651066744c617374577269746554696d650e6e46696c6553697a65486967680d6e46696c6553697a654c6f770c64775265736572766564300c64775265736572766564310a6346696c654e616d651363416c7465726e61746546696c654e616d65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "117": {
+    "name": "LPCWSTR",
+    "serialized": [
+      {
+        "hex": "0a7d04238176"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "118": {
+    "name": "WCHAR",
+    "serialized": [
+      {
+        "hex": "3d04238177"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "119": {
+    "name": "wchar_t",
+    "serialized": [
+      {
+        "hex": "23"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "120": {
+    "name": "_STARTUPINFOA",
+    "serialized": [
+      {
+        "hex": "0d91013d0323453d0323573d0323573d0323573d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d03235c3d03235c3d042381543d0323603d0323603d032360"
+      },
+      {
+        "hex": "0363620b6c7052657365727665640a6c704465736b746f70086c705469746c6504647758046477590864775853697a650864775953697a650e647758436f756e7443686172730e647759436f756e74436861727310647746696c6c417474726962757465086477466c6167730c7753686f7757696e646f770c63625265736572766564320c6c705265736572766564320a68537464496e7075740b685374644f75747075740a685374644572726f72"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "121": {
+    "name": "_EXCEPTION_POINTERS",
+    "serialized": [
+      {
+        "hex": "0d113d0423816f3d0423817a"
+      },
+      {
+        "hex": "10457863657074696f6e5265636f72640e436f6e746578745265636f7264"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "122": {
+    "name": "PCONTEXT",
+    "serialized": [
+      {
+        "hex": "0a3d0423817b"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "123": {
+    "name": "CONTEXT",
+    "serialized": [
+      {
+        "hex": "0d010423817c"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "124": {
+    "name": "_CONTEXT",
+    "serialized": [
+      {
+        "hex": "0dcc013d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0423817d3d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323453d0323451b81043d03236f"
+      },
+      {
+        "hex": "0d436f6e74657874466c6167730444723004447231044472320444723304447236044472370a466c6f61745361766506536567477306536567467306536567457306536567447304456469044573690445627804456478044563780445617804456270044569700653656743730745466c6167730445737006536567537312457874656e646564526567697374657273"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "125": {
+    "name": "FLOATING_SAVE_AREA",
+    "serialized": [
+      {
+        "hex": "0d010423817e"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "126": {
+    "name": "_FLOATING_SAVE_AREA",
+    "serialized": [
+      {
+        "hex": "0d493d0323453d0323453d0323453d0323453d0323453d0323453d0323451b513d03236f3d032345"
+      },
+      {
+        "hex": "0c436f6e74726f6c576f72640b537461747573576f726408546167576f72640c4572726f724f66667365740e4572726f7253656c6563746f720b446174614f66667365740d4461746153656c6563746f720d52656769737465724172656107537061726530"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "127": {
+    "name": "LPCVOID",
+    "serialized": [
+      {
+        "hex": "0a41"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "128": {
+    "name": "_cpinfo",
+    "serialized": [
+      {
+        "hex": "0d193d03237d1b033d03236f1b0d3d03236f"
+      },
+      {
+        "hex": "0c4d61784368617253697a650c44656661756c7443686172094c65616442797465"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "129": {
+    "name": "_TIME_ZONE_INFORMATION",
+    "serialized": [
+      {
+        "hex": "0d393d03235f1b213d042381763d042381723d03235f1b213d042381763d042381723d03235f"
+      },
+      {
+        "hex": "05426961730d5374616e646172644e616d650d5374616e64617264446174650d5374616e64617264426961730d4461796c696768744e616d650d4461796c69676874446174650d4461796c6967687442696173"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "130": {
+    "name": "BOOL",
+    "serialized": [
+      {
+        "hex": "07"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "131": {
+    "name": "LPCCH",
+    "serialized": [
+      {
+        "hex": "0a7d032354"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "132": {
+    "name": "LPWSTR",
+    "serialized": [
+      {
+        "hex": "0a3d04238176"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "133": {
+    "name": "LCID",
+    "serialized": [
+      {
+        "hex": "3d032345"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "134": {
+    "name": "LPCRITICAL_SECTION",
+    "serialized": [
+      {
+        "hex": "3d04238247"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "135": {
+    "name": "PRTL_CRITICAL_SECTION",
+    "serialized": [
+      {
+        "hex": "0a0d01032359"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "136": {
+    "name": "LPWORD",
+    "serialized": [
+      {
+        "hex": "0a3d03235c"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "137": {
+    "name": "_SECURITY_ATTRIBUTES",
+    "serialized": [
+      {
+        "hex": "0d193d0323453d03237b3d04238242"
+      },
+      {
+        "hex": "086e4c656e677468156c70536563757269747944657363726970746f720f62496e686572697448616e646c65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "138": {
+    "name": "PCNZCH",
+    "serialized": [
+      {
+        "hex": "0a7d032354"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "139": {
+    "name": "u_short",
+    "serialized": [
+      {
+        "hex": "23"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "140": {
+    "name": "LPWSADATA",
+    "serialized": [
+      {
+        "hex": "0a0d0104238151"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "141": {
+    "name": "HACMOBJ",
+    "serialized": [
+      {
+        "hex": "0a0d010423824e"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "142": {
+    "name": "HACMOBJ__",
+    "serialized": [
+      {
+        "hex": "0d0a07"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "143": {
+    "name": "LPACMDRIVERDETAILSA",
+    "serialized": [
+      {
+        "hex": "0a0d010423815f"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "144": {
+    "name": "HACMDRIVER",
+    "serialized": [
+      {
+        "hex": "0a0d0104238251"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "145": {
+    "name": "HACMDRIVER__",
+    "serialized": [
+      {
+        "hex": "0d0a07"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "146": {
+    "name": "LPWAVEFILTER",
+    "serialized": [
+      {
+        "hex": "0a3d04238253"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "147": {
+    "name": "WAVEFILTER",
+    "serialized": [
+      {
+        "hex": "0d0104238254"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "148": {
+    "name": "wavefilter_tag",
+    "serialized": [
+      {
+        "hex": "0d223d0323453d0323453d0323451b063d032345"
+      },
+      {
+        "hex": "0963625374727563740c647746696c7465725461670a66647746696c7465720b64775265736572766564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "149": {
+    "name": "LPACMSTREAMHEADER",
+    "serialized": [
+      {
+        "hex": "0a0d0104238166"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "150": {
+    "name": "LPDWORD",
+    "serialized": [
+      {
+        "hex": "0a3d032345"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "151": {
+    "name": "LPHACMDRIVER",
+    "serialized": [
+      {
+        "hex": "0a3d04238250"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "152": {
+    "name": "ACMDRIVERENUMCB",
+    "serialized": [
+      {
+        "hex": "0a0c533d04238242043d0423815d3d0423815a3d032345"
+      },
+      {
+        "hex": "0668616469640b6477496e7374616e63650b666477537570706f7274"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "153": {
+    "name": "_onexit_t",
+    "serialized": [
+      {
+        "hex": "0a0c330701"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "154": {
+    "name": "size_t",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "155": {
+    "name": "_CoreCrtNonSecureSearchSortCompareFunction",
+    "serialized": [
+      {
+        "hex": "0a0c3307030a410a41"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "156": {
+    "name": "_locale_t",
+    "serialized": [
+      {
+        "hex": "0a3d0423825d"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "157": {
+    "name": "__crt_locale_pointers",
+    "serialized": [
+      {
+        "hex": "0d150a0d01125f5f6372745f6c6f63616c655f646174610a0d01155f5f6372745f6d756c7469627974655f64617461"
+      },
+      {
+        "hex": "086c6f63696e666f086d6263696e666f"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "158": {
+    "name": "__time64_t",
+    "serialized": [
+      {
+        "hex": "05"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "159": {
+    "name": "_finddata64i32_t",
+    "serialized": [
+      {
+        "hex": "0d35273d0423825e3d0423825e3d0423825e3d042382601b850232"
+      },
+      {
+        "hex": "076174747269620c74696d655f6372656174650c74696d655f6163636573730b74696d655f77726974650573697a65056e616d65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "160": {
+    "name": "_fsize_t",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "161": {
+    "name": "intptr_t",
+    "serialized": [
+      {
+        "hex": "07"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "162": {
+    "name": "_stat64i32",
+    "serialized": [
+      {
+        "hex": "0d5d3d042382633d04238264230303033d042382633d042382653d0423825e3d0423825e3d0423825e"
+      },
+      {
+        "hex": "0773745f6465760773745f696e6f0873745f6d6f64650973745f6e6c696e6b0773745f7569640773745f6769640873745f726465760873745f73697a650973745f6174696d650973745f6d74696d650973745f6374696d65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "163": {
+    "name": "_dev_t",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "164": {
+    "name": "_ino_t",
+    "serialized": [
+      {
+        "hex": "23"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "165": {
+    "name": "_off_t",
+    "serialized": [
+      {
+        "hex": "07"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "166": {
+    "name": "_ThrowInfo",
+    "serialized": [
+      {
+        "hex": "3d04238267"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "167": {
+    "name": "ThrowInfo",
+    "serialized": [
+      {
+        "hex": "4d0104238268"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "168": {
+    "name": "_s_ThrowInfo",
+    "serialized": [
+      {
+        "hex": "0d24273d042382690a0c3307010a3d0423826a"
+      },
+      {
+        "hex": "0b617474726962757465730b706d666e556e77696e640f70466f7277617264436f6d7061741470436174636861626c65547970654172726179"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "169": {
+    "name": "PMFN",
+    "serialized": [
+      {
+        "hex": "0a0c3301020a01"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "170": {
+    "name": "CatchableTypeArray",
+    "serialized": [
+      {
+        "hex": "4d010423826b"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "171": {
+    "name": "_s_CatchableTypeArray",
+    "serialized": [
+      {
+        "hex": "0d14071b010a3d0423826c"
+      },
+      {
+        "hex": "106e436174636861626c6554797065731661727261794f66436174636861626c655479706573"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "172": {
+    "name": "CatchableType",
+    "serialized": [
+      {
+        "hex": "4d010423826d"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "173": {
+    "name": "_s_CatchableType",
+    "serialized": [
+      {
+        "hex": "0d2c270a3d0423826e3d0423826f073d04238269"
+      },
+      {
+        "hex": "0b70726f706572746965730670547970651174686973446973706c6163656d656e740d73697a654f724f66667365740d636f707946756e6374696f6e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "174": {
+    "name": "TypeDescriptor",
+    "serialized": [
+      {
+        "hex": "0d1c270a011b0132"
+      },
+      {
+        "hex": "0568617368067370617265056e616d65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "175": {
+    "name": "PMD",
+    "serialized": [
+      {
+        "hex": "0d1c070707"
+      },
+      {
+        "hex": "066d64697370067064697370067664697370"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "176": {
+    "name": "FILE",
+    "serialized": [
+      {
+        "hex": "0d0104238271"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "177": {
+    "name": "_iobuf",
+    "serialized": [
+      {
+        "hex": "0d410a32070a32070707070a32"
+      },
+      {
+        "hex": "055f707472055f636e74065f62617365065f666c6167065f66696c65095f63686172627566085f62756673697a0a5f746d70666e616d65"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "178": {
+    "name": "uintptr_t",
+    "serialized": [
+      {
+        "hex": "27"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "179": {
+    "name": "rsize_t",
+    "serialized": [
+      {
+        "hex": "3d0423825a"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "180": {
+    "name": "FuncInfo",
+    "serialized": [
+      {
+        "hex": "0d51f180042e3c012e0801070404040a0101070404040a0101070404040a01010a0101070203"
+      },
+      {
+        "hex": "0c6d616769634e756d62657209626274466c616773096d617853746174650b70556e77696e644d61700b6e547279426c6f636b730d70547279426c6f636b4d61700e6e49504d6170456e74726965730e704950746f53746174654d61700c704553547970654c697374084548466c616773"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "181": {
+    "name": "UnwindMapEntry",
+    "serialized": [
+      {
+        "hex": "0d11f18004070404040a0101"
+      },
+      {
+        "hex": "08746f537461746507616374696f6e"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "182": {
+    "name": "TryBlockMapEntry",
+    "serialized": [
+      {
+        "hex": "0d29f18004070404040704040407040404070404040a0101"
+      },
+      {
+        "hex": "077472794c6f7708747279486967680a636174636848696768096e436174636865730e7048616e646c65724172726179"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "183": {
+    "name": "HandlerType",
+    "serialized": [
+      {
+        "hex": "0d21f180040702030a4d010423826e01070404040a0101"
+      },
+      {
+        "hex": "0b61646a656374697665730670547970650d6469737043617463684f626a11616464726573734f6648616e646c6572"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "184": {
+    "name": "Replicator",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "185": {
+    "name": "std::exception",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "186": {
+    "name": "Concurrency::details::VirtualProcessor",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "187": {
+    "name": "Concurrency::details::SchedulerCore",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "188": {
+    "name": "Concurrency::details::_CancellationTokenRegistration",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "189": {
+    "name": "Concurrency::details::ContextBase",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "190": {
+    "name": "exception",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "191": {
+    "name": "std::bad_alloc",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "192": {
+    "name": "_lambda_8b695f9820225e821433c25f6ed27cb8_",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "193": {
+    "name": "Concurrency::details::SchedulerBase::NumaInformation",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "194": {
+    "name": "Concurrency::details::ThreadProxyFactoryManager",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "195": {
+    "name": "Concurrency::details::GlobalCore",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "196": {
+    "name": "Concurrency::details::GlobalNode",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "197": {
+    "name": "_LocaleUpdate",
+    "serialized": [
+      {
+        "hex": "0d0101"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "198": {
+    "name": "tagRASCONNA",
+    "serialized": [
+      {
+        "hex": "0d5c3d0323453d042383471b82023d0323541b123d0323541b82013d0323541b85023d0323543d0323453d0323723d0323453d042383493d032372"
+      },
+      {
+        "hex": "07647753697a650968726173636f6e6e0c737a456e7472794e616d650d737a446576696365547970650d737a4465766963654e616d650c737a50686f6e65626f6f6b0b6477537562456e7472790a67756964456e747279086477466c616773056c7569641267756964436f7272656c6174696f6e4964"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "199": {
+    "name": "HRASCONN",
+    "serialized": [
+      {
+        "hex": "0a0d0104238348"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "200": {
+    "name": "HRASCONN__",
+    "serialized": [
+      {
+        "hex": "0d0c07"
+      },
+      {
+        "hex": "07756e75736564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "201": {
+    "name": "LUID",
+    "serialized": [
+      {
+        "hex": "0d010423834a"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "202": {
+    "name": "_LUID",
+    "serialized": [
+      {
+        "hex": "0d113d0323453d03235f"
+      },
+      {
+        "hex": "084c6f7750617274094869676850617274"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "203": {
+    "name": "tagRASCONNSTATUSA",
+    "serialized": [
+      {
+        "hex": "0d4c3d0323452d010423834c3d0323451b123d0323541b82013d0323541b82013d0323540d010423834d0d010423834d2d0104238353"
+      },
+      {
+        "hex": "07647753697a650d726173636f6e6e73746174650864774572726f720d737a446576696365547970650d737a4465766963654e616d650e737a50686f6e654e756d6265720e6c6f63616c456e64506f696e740f72656d6f7465456e64506f696e7410726173636f6e6e7375627374617465"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "204": {
+    "name": "tagRASCONNSTATE",
+    "serialized": [
+      {
+        "hex": "2d218040414141414141414141414141414141414141414141414141bf6841414141bf7c41"
+      },
+      {
+        "hex": "0f52415343535f4f70656e506f72741152415343535f506f72744f70656e65641452415343535f436f6e6e6563744465766963651652415343535f446576696365436f6e6e65637465641a52415343535f416c6c44657669636573436f6e6e65637465641352415343535f41757468656e7469636174651152415343535f417574684e6f746966791052415343535f4175746852657472791352415343535f4175746843616c6c6261636b1952415343535f417574684368616e676550617373776f72641252415343535f4175746850726f6a6563741452415343535f417574684c696e6b53706565640e52415343535f4175746841636b1552415343535f526541757468656e7469636174651452415343535f41757468656e746963617465641952415343535f50726570617265466f7243616c6c6261636b1852415343535f57616974466f724d6f64656d52657365741652415343535f57616974466f7243616c6c6261636b1052415343535f50726f6a65637465641a52415343535f537461727441757468656e7469636174696f6e1752415343535f43616c6c6261636b436f6d706c6574651352415343535f4c6f676f6e4e6574776f726b1852415343535f537562456e747279436f6e6e65637465641b52415343535f537562456e747279446973636f6e6e65637465641452415343535f4170706c7953657474696e67731252415343535f496e7465726163746976651a52415343535f526574727941757468656e7469636174696f6e1a52415343535f43616c6c6261636b536574427943616c6c65721652415343535f50617373776f7264457870697265641252415343535f496e766f6b6545617055491052415343535f436f6e6e65637465641352415343535f446973636f6e6e6563746564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "205": {
+    "name": "tagRASTUNNELENDPOINT",
+    "serialized": [
+      {
+        "hex": "0d143d0323451d010423834e"
+      },
+      {
+        "hex": "07647754797065"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "206": {
+    "name": "tagRASTUNNELENDPOINT::$4A9C1D26ADB9873768D25EB8D6E43E7F",
+    "serialized": [
+      {
+        "hex": "1d143d0423834f3d04238350"
+      },
+      {
+        "hex": "05697076340569707636"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "207": {
+    "name": "RASIPV4ADDR",
+    "serialized": [
+      {
+        "hex": "0d0103234d"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "208": {
+    "name": "RASIPV6ADDR",
+    "serialized": [
+      {
+        "hex": "0d0104238351"
+      },
+      null,
+      null,
+      null,
+      0
+    ]
+  },
+  "209": {
+    "name": "in6_addr",
+    "serialized": [
+      {
+        "hex": "0d091d0104238352"
+      },
+      {
+        "hex": "0275"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "210": {
+    "name": "in6_addr::$6F0816B860EA11CA8E788AEE35731DB2",
+    "serialized": [
+      {
+        "hex": "1d111b113d0323501b093d032352"
+      },
+      {
+        "hex": "054279746505576f7264"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "211": {
+    "name": "tagRASCONNSUBSTATE",
+    "serialized": [
+      {
+        "hex": "2d0580404141ff7e"
+      },
+      {
+        "hex": "0c5241534353535f4e6f6e650f5241534353535f446f726d616e74145241534353535f5265636f6e6e656374696e67135241534353535f5265636f6e6e6563746564"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "212": {
+    "name": "RFMaterialPhysicsRecord",
+    "serialized": [
+      {
+        "hex": "0d3909090909090707"
+      },
+      {
+        "hex": "0b656c6173746963697479096672696374696f6e0864656e736974790962756f79616e6379097472616374696f6e156465627269735f6269746d61705f68616e646c65186465627269735f6269746d61705f617578696c69617279"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "213": {
+    "name": "RFFpgunSemanticAction",
+    "serialized": [
+      {
+        "hex": "2d0d80404141414141414141414141"
+      },
+      {
+        "hex": "1552465f465047554e5f414354494f4e5f464952451952465f465047554e5f414354494f4e5f414c545f464952451a52465f465047554e5f414354494f4e5f464952455f4641494c1752465f465047554e5f414354494f4e5f49444c455f311752465f465047554e5f414354494f4e5f49444c455f321752465f465047554e5f414354494f4e5f49444c455f331552465f465047554e5f414354494f4e5f445241571852465f465047554e5f414354494f4e5f484f4c535445521752465f465047554e5f414354494f4e5f52454c4f41441552465f465047554e5f414354494f4e5f4a554d501d52465f465047554e5f414354494f4e5f435553544f4d5f53544152541d52465f465047554e5f414354494f4e5f435553544f4d5f4c45415645"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "214": {
+    "name": "RFRflSectionId",
+    "serialized": [
+      {
+        "hex": "2d0e808c408840844084408c4090408c40844097b840888040888040888040888040"
+      },
+      {
+        "hex": "1652465f52464c5f53454354494f4e5f4c49474854531e52465f52464c5f53454354494f4e5f414d4249454e545f534f554e44531652465f52464c5f53454354494f4e5f4556454e54532452465f52464c5f53454354494f4e5f4d554c5449504c415945525f5245535041574e532152465f52464c5f53454354494f4e5f5041525449434c455f454d4954544552531d52465f52464c5f53454354494f4e5f424f4c545f454d4954544552531c52465f52464c5f53454354494f4e5f505553485f524547494f4e531952465f52464c5f53454354494f4e5f4c494748544d4150531852465f52464c5f53454354494f4e5f454e5449544945531552465f52464c5f53454354494f4e5f4954454d531752465f52464c5f53454354494f4e5f434c55545445521852465f52464c5f53454354494f4e5f54524947474552531c52465f52464c5f53454354494f4e5f504c415945525f5354415254"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "215": {
+    "name": "RFCharacterActiveAnimRecord",
+    "serialized": [
+      {
+        "hex": "0d19070709"
+      },
+      {
+        "hex": "10616e696d6174696f6e5f696e6465780d63757272656e745f7469636b0c6d69785f70657263656e74"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "216": {
+    "name": "RFMissionEventType",
+    "serialized": [
+      {
+        "hex": "2d5b80404141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141"
+      },
+      {
+        "hex": "1452465f4556454e545f504c41595f534f554e441552465f4556454e545f534c41595f4f424a4543541752465f4556454e545f52454d4f56455f4f424a4543541052465f4556454e545f494e564552541252465f4556454e545f54454c45504f52540e52465f4556454e545f474f544f1552465f4556454e545f474f544f5f504c415945521152465f4556454e545f4c4f4f4b5f41541252465f4556454e545f53484f4f545f41541452465f4556454e545f53484f4f545f4f4e43451152465f4556454e545f4558504c4f44451852465f4556454e545f504c41595f414e494d4154494f4e1f52465f4556454e545f504c41595f435553544f4d5f414e494d4154494f4e0e52465f4556454e545f4845414c0f52465f4556454e545f41524d4f521152465f4556454e545f4d4553534147451352465f4556454e545f5748454e5f444541441b52465f4556454e545f434f4e54494e554f55535f44414d4147451652465f4556454e545f5348414b455f504c415945521d52465f4556454e545f474956455f4954454d5f544f5f504c415945521652465f4556454e545f4359434c49435f54494d45521652465f4556454e545f5357495443485f4d4f44454c1452465f4556454e545f4c4f41445f4c4556454c1652465f4556454e545f535041574e5f4f424a4543541b52465f4556454e545f4d414b455f494e56554c4e455241424c451352465f4556454e545f4d414b455f57414c4b1252465f4556454e545f4d414b455f464c591b52465f4556454e545f44524f505f504f494e545f4d41524b45521a52465f4556454e545f464f4c4c4f575f574159504f494e54531752465f4556454e545f464f4c4c4f575f504c415945521a52465f4556454e545f5345545f465249454e444c494e4553531952465f4556454e545f5345545f4c494748545f53544154451052465f4556454e545f5357495443481752465f4556454e545f535741505f54455854555245531552465f4556454e545f5345545f41495f4d4f44451552465f4556454e545f474f414c5f4352454154451452465f4556454e545f474f414c5f434845434b1252465f4556454e545f474f414c5f5345541052465f4556454e545f41545441434b1852465f4556454e545f5041525449434c455f53544154451a52465f4556454e545f5345545f4c49515549445f44455054481552465f4556454e545f4d555349435f53544152541452465f4556454e545f4d555349435f53544f501452465f4556454e545f424f4c545f53544154451552465f4556454e545f5345545f475241564954591552465f4556454e545f414c41524d5f534952454e0f52465f4556454e545f414c41524d1752465f4556454e545f474f5f554e444552434f5645520f52465f4556454e545f44454c41591752465f4556454e545f4d4f4e49544f525f53544154451052465f4556454e545f554e484944451b52465f4556454e545f505553485f524547494f4e5f53544154451252465f4556454e545f5748454e5f4849541852465f4556454e545f484541444c414d505f53544154451b52465f4556454e545f4954454d5f5049434b55505f53544154451252465f4556454e545f4355545343454e451e52465f4556454e545f53545249505f504c415945525f574541504f4e531352465f4556454e545f464f475f53544154451052465f4556454e545f4445544143481652465f4556454e545f534b59424f585f53544154451e52465f4556454e545f464f5243455f4d4f4e49544f525f5550444154451a52465f4556454e545f424c41434b5f4f55545f504c415945521a52465f4556454e545f5455524e5f4f46465f504859534943531952465f4556454e545f54454c45504f52545f504c415945521852465f4556454e545f484f4c535445525f574541504f4e1f52465f4556454e545f484f4c535445525f504c415945525f574541504f4e1f52465f4556454e545f4d4f444946595f524f544154494e475f4d4f5645522152465f4556454e545f434c4541525f454e4447414d455f49465f4b494c4c45441652465f4556454e545f57494e5f5053325f44454d4f1952465f4556454e545f454e41424c455f4e4156504f494e541452465f4556454e545f504c41595f56434c49501152465f4556454e545f454e4447414d451552465f4556454e545f4d4f5645525f50415553451952465f4556454e545f434f554e54444f574e5f424547494e1752465f4556454e545f434f554e54444f574e5f454e441d52465f4556454e545f5748454e5f434f554e54444f574e5f4f5645521f52465f4556454e545f41435449564154455f434150454b5f534849454c441c52465f4556454e545f5748454e5f454e5445525f56454849434c451f52465f4556454e545f5748454e5f5452595f455849545f56454849434c451d52465f4556454e545f464952455f574541504f4e5f4e4f5f414e494d1d52465f4556454e545f4e455645525f4c454156455f56454849434c451552465f4556454e545f44524f505f574541504f4e1752465f4556454e545f49474e4954455f454e544954591c52465f4556454e545f5748454e5f4355545343454e455f4f5645522052465f4556454e545f5748454e5f434f554e54444f574e5f524541434845532252465f4556454e545f444953504c41595f46554c4c53435245454e5f494d4147451552465f4556454e545f4445465553455f4e554b451b52465f4556454e545f5748454e5f4c4946455f524541434845531c52465f4556454e545f5748454e5f41524d4f525f524541434845531752465f4556454e545f524556455253455f4d4f564552"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "217": {
+    "name": "rf_persona_history_entry",
+    "serialized": [
+      {
+        "hex": "0d191b8502320303"
+      },
+      {
+        "hex": "0d777261707065645f746578740e706572736f6e615f696e6465780e6c61796f75745f686569676874"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "218": {
+    "name": "RFGeomodFiniteIntersectionRecord",
+    "serialized": [
+      {
+        "hex": "0d210a010a011b040909"
+      },
+      {
+        "hex": "077665727465781263726f7373696e675f656467655f656e6409706f736974696f6e0c6c696e655f7363616c6172"
+      },
+      null,
+      null,
+      0
+    ]
+  },
+  "219": {
+    "name": "RFFrontendRecord272",
+    "serialized": [
+      {
+        "hex": "0d1c1b8502320509"
+      },
+      {
+        "hex": "0966696c656e616d650a74696d657374616d7010656c61707365645f7365636f6e6473"
+      },
+      null,
+      null,
+      0
+    ]
+  }
+}

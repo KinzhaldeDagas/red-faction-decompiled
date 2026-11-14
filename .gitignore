@@ -1,0 +1,46 @@
+# Local game installations and extracted game content
+/local/
+/game-data/
+/game/
+/reference/
+*.[eE][xX][eE]
+*.[dD][lL][lL]
+*.[vV][pP][pP]
+*.[rR][fF][lL]
+*.[vV][bB][mM]
+*.[tT][gG][aA]
+*.[vV]3[cCdDmM]
+*.[rR][fF][aA]
+*.[wW][aA][vV]
+*.[mM][pP]3
+*.[oO][gG][gG]
+*.[bB][iI][kK]
+*.[tT][bB][lL]
+*.[bB][iI][nN]
+
+# IDA databases, sidecars, and backups
+*.[iI]64*
+*.[iI][dD][bB]*
+*.[iI][dD][0-2]
+*.[nN][aA][mM]
+*.[tT][iI][lL]
+*.bak
+*.backup
+/backups/
+
+# Build products and local machine state
+/build/
+/logs/
+*.o
+*.obj
+*.pdb
+*.ilk
+*.a
+*.lib
+*.so
+*.dylib
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
